@@ -1,3 +1,8 @@
+### Estudiante 1: Juan Pablo Jerez Zarate
+### Estudiante 2: Kenet Adrián Martínez Moya
+### Estudiante 3: Juan Pablo Baldion Castillo
+
+
 <!-- SAMPLE CONFLICTS -->
 # Sample Conflicts
 <!-- PROJECT SHIELDS -->
